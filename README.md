@@ -44,7 +44,7 @@ POSIX Threads (pthreads)
 
 Clone the repository
 
-git clone https://github.com/yourusername/pacman-game.git
+git clone https://github.com/hassanzfr/Pacman-MultiThreaded.git
 cd pacman-game
 
 Compile the game
