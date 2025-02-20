@@ -1,7 +1,6 @@
 # 🎮 Pacman Game - Multithreaded Edition
 
 A multithreaded Pacman game implemented in C++, featuring POSIX threads, semaphores, and SFML for graphics rendering. This game brings the classic Pacman experience with enhanced concurrency control for managing game logic, ghosts, and rendering efficiently.
-![image](https://github.com/user-attachments/assets/fa372f12-ae12-4059-8bce-913e66065ba2)
 
 # 🌐 Features
 
